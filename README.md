@@ -1,10 +1,16 @@
 # Hi, I'm Arya Kadarkar
 
-I’m a Master of Science in Information Systems student at the University of Maryland, Robert H. Smith School of Business, with a B.S. in Computer Science from Penn State.
+I’m completing an M.S. in Information Systems & AI at the University of Maryland’s Robert H. Smith School of Business (expected December 2026). I hold a B.S. in Computer Science from Penn State.
 
-I’m interested in building practical systems at the intersection of AI, data analytics, business intelligence, and decision-making. My work focuses on using Python, SQL, machine learning, data pipelines, and visualization tools to turn raw data into useful insights and scalable solutions.
+I build practical software, applied AI, and data products that help people make better decisions. My work spans predictive modeling, data pipelines, and interactive tools.
 
-## What I'm working on
+## Selected projects
+
+- [VenueMatch](https://github.com/Amoux98021/Venue_Match): Helps booking teams shortlist venues for artists using historical booking data.
+- [GOAT Lab](https://github.com/Amoux98021/NBA-GoatLab): An interactive NBA player comparison tool that shows uncertainty alongside rankings.
+- [Racing Line Optimizer](https://github.com/Amoux98021/AI_Race_Line_Optimizer): Compares approaches to learning and evaluating racing lines in simulation.
+
+## Other areas I work on
 
 - AI-enabled real estate prediction and analytics systems
 - Data science and predictive modeling projects
@@ -27,7 +33,7 @@ I have experience as a Market Research Intern at Fortune Business Insights, wher
 
 ## What I'm looking for
 
-I’m currently looking for internship and project opportunities in:
+I’m interested in full-time opportunities in:
 
 - Data Analytics
 - Data Science
